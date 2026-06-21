@@ -12,7 +12,7 @@ permissions:
 env:
   APP_NAME: sample-java-maven-app
   AWS_REGION: eu-west-2
-  S3_BUCKET: promox-krisdigita-home-lab
+  S3_BUCKET: promox-krisdigitx-home-lab
   DOCKER_IMAGE: docker.io/krisdigitx/sample-java-maven-app
 
 jobs:
