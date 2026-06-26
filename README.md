@@ -8,3 +8,4 @@ This repository contains a sample Java Spring Boot application.
 cd app
 mvn clean package
 java -jar target/sample-java-maven-app.jar
+Test run
