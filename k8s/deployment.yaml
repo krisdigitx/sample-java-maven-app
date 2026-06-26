@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: sample-java
-          image: docker.io/krisdigitx/sample-java-maven-app:88ef486
+          image: docker.io/krisdigitx/sample-java-maven-app:6a5c702
           imagePullPolicy: Always
           ports:
             - containerPort: 8080
